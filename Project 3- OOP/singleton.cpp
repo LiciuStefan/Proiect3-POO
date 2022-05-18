@@ -446,7 +446,7 @@ menu:
 		case 0:
 		{
 			Patrat* Pt;
-			int x, y, inaltime, latura;
+			float x, y, inaltime, latura;
 			cout << "Introduceti: asbscisa punctului stanga jos(float), ordonata punctului stanga jos(float), inaltimea(float) si lungimea laturii(float)\n";
 		label_patrat:
 			cin >> x >> y >> inaltime >> latura;
@@ -465,7 +465,7 @@ menu:
 		case 1:
 		{
 			vector<Patrat*> Ptr;
-			int x, y;
+			float x, y;
 			cout << "Introduceti: asbscisa punctului stanga jos(float), ordonata punctului stanga jos(float)\n";
 		label_patrat_remove:
 			cin >> x >> y;
@@ -491,7 +491,7 @@ menu:
 		case 2:
 		{
 			vector<Patrat*> Ptr;
-			int latura;
+			float latura;
 			cout << "Introduceti: latura patratului(float)\n";
 		label_patrat_latura:
 			cin >> latura;
@@ -518,7 +518,7 @@ menu:
 		case 3:
 		{
 			vector<Patrat*> Ptr;
-			int inaltime;
+			float inaltime;
 			cout << "Introduceti: inaltimea patratului(float)\n";
 		label_patrat_inaltime:
 			cin >> inaltime;
@@ -544,7 +544,7 @@ menu:
 		case 4:
 		{
 			vector<Patrat*> Ptr;
-			int arie;
+			float arie;
 			cout << "Introduceti: aria patratului(float)\n";
 		label_patrat_arie:
 			cin >> arie;
