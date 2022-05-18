@@ -6,10 +6,10 @@
 class PatratRepository: public Repo<Patrat>
 {
 public:
-	std::vector<Patrat*> SearchByPunctStangaJos(int, int);
-	std::vector<Patrat*>SearchByLatura(int);
-	std::vector<Patrat*>SearchByInaltime(int);
-	std::vector<Patrat*>SearchByArie(int);
+	std::vector<Patrat*> SearchByPunctStangaJos(float, float);
+	std::vector<Patrat*>SearchByLatura(float);
+	std::vector<Patrat*>SearchByInaltime(float);
+	std::vector<Patrat*>SearchByArie(float);
 	void see();
 	PatratRepository() {}
 	~PatratRepository() {}
