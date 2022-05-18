@@ -62,3 +62,262 @@ int main()
 	return 0;
 }
 ```
+Exemplu:<br/>
+0.Exit<br/>
+1.Vezi forme geometrice<br/>
+2.Adauga forma geometrica<br/>
+3.Sterge forma geometrica<br/>
+4.Calcul arie forma geometrica<br/>
+5.Calcul volum forma geometrica<br/>
+6.Calculeaza lungime laturi triunghi<br/>
+7.Centru de greutate triunghi<br/>
+8.Actiuni repository<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+8<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+0. Adauga patrat<br/>
+1. Delete patrat dupa punct stanga jos<br/>
+2. Delete patrat dupa latura<br/>
+3. Delete patrat dupa inaltime<br/>
+4. Delete patrat dupa arie<br/>
+5. Vezi patrate<br/>
+0<br/>
+Introduceti: asbscisa punctului stanga jos(float), ordonata punctului stanga jos(float), inaltimea(float) si lungimea laturii(float)<br/>
+1 1 2 5<br/>
+Doriti o alta actiune?<br/>
+da<br/>
+0.Exit<br/>
+1.Vezi forme geometrice<br/>
+2.Adauga forma geometrica<br/>
+3.Sterge forma geometrica<br/>
+4.Calcul arie forma geometrica<br/>
+5.Calcul volum forma geometrica<br/>
+6.Calculeaza lungime laturi triunghi<br/>
+7.Centru de greutate triunghi<br/>
+8.Actiuni repository<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+8<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+0. Adauga patrat<br/>
+1. Delete patrat dupa punct stanga jos<br/>
+2. Delete patrat dupa latura<br/>
+3. Delete patrat dupa inaltime<br/>
+4. Delete patrat dupa arie<br/>
+5. Vezi patrate<br/>
+0<br/>
+Introduceti: asbscisa punctului stanga jos(float), ordonata punctului stanga jos(float), inaltimea(float) si lungimea laturii(float)<br/>
+2.2 3.3 0 12<br/>
+Doriti o alta actiune?<br/>
+da<br/>
+0.Exit<br/>
+1.Vezi forme geometrice<br/>
+2.Adauga forma geometrica<br/>
+3.Sterge forma geometrica<br/>
+4.Calcul arie forma geometrica<br/>
+5.Calcul volum forma geometrica<br/>
+6.Calculeaza lungime laturi triunghi<br/>
+7.Centru de greutate triunghi<br/>
+8.Actiuni repository<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+8<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+0. Adauga patrat<br/>
+1. Delete patrat dupa punct stanga jos<br/>
+2. Delete patrat dupa latura<br/>
+3. Delete patrat dupa inaltime<br/>
+4. Delete patrat dupa arie<br/>
+5. Vezi patrate<br/>
+0<br/>
+Introduceti: asbscisa punctului stanga jos(float), ordonata punctului stanga jos(float), inaltimea(float) si lungimea laturii(float)<br/>
+1.22 4.5 9.8 3.33<br/>
+Doriti o alta actiune?<br/>
+da<br/>
+0.Exit<br/>
+1.Vezi forme geometrice<br/>
+2.Adauga forma geometrica<br/>
+3.Sterge forma geometrica<br/>
+4.Calcul arie forma geometrica<br/>
+5.Calcul volum forma geometrica<br/>
+6.Calculeaza lungime laturi triunghi<br/>
+7.Centru de greutate triunghi<br/>
+8.Actiuni repository<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+8<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+0. Adauga patrat<br/>
+1. Delete patrat dupa punct stanga jos<br/>
+2. Delete patrat dupa latura<br/>
+3. Delete patrat dupa inaltime<br/>
+4. Delete patrat dupa arie<br/>
+5. Vezi patrate<br/>
+5<br/>
+1 1 2 5<br/>
+2.2 3.3 0 12<br/>
+1.22 4.5 9.8 3.33<br/>
+Doriti o alta actiune?<br/>
+da<br/>
+0.Exit<br/>
+1.Vezi forme geometrice<br/>
+2.Adauga forma geometrica<br/>
+3.Sterge forma geometrica<br/>
+4.Calcul arie forma geometrica<br/>
+5.Calcul volum forma geometrica<br/>
+6.Calculeaza lungime laturi triunghi<br/>
+7.Centru de greutate triunghi<br/>
+8.Actiuni repository<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+8<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+0. Adauga patrat<br/>
+1. Delete patrat dupa punct stanga jos<br/>
+2. Delete patrat dupa latura<br/>
+3. Delete patrat dupa inaltime<br/>
+4. Delete patrat dupa arie<br/>
+5. Vezi patrate<br/>
+1<br/>
+Introduceti: asbscisa punctului stanga jos(float), ordonata punctului stanga jos(float)<br/>
+2.2 3.3<br/>
+A fost elimnat un element<br/>
+Doriti o alta actiune?<br/>
+da<br/>
+0.Exit<br/>
+1.Vezi forme geometrice<br/>
+2.Adauga forma geometrica<br/>
+3.Sterge forma geometrica<br/>
+4.Calcul arie forma geometrica<br/>
+5.Calcul volum forma geometrica<br/>
+6.Calculeaza lungime laturi triunghi<br/>
+7.Centru de greutate triunghi<br/>
+8.Actiuni repository<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+8<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+0. Adauga patrat<br/>
+1. Delete patrat dupa punct stanga jos<br/>
+2. Delete patrat dupa latura<br/>
+3. Delete patrat dupa inaltime<br/>
+4. Delete patrat dupa arie<br/>
+5. Vezi patrate<br/>
+5<br/>
+1 1 2 5<br/>
+1.22 4.5 9.8 3.33<br/>
+Doriti o alta actiune?<br/>
+da<br/>
+0.Exit<br/>
+1.Vezi forme geometrice<br/>
+2.Adauga forma geometrica<br/>
+3.Sterge forma geometrica<br/>
+4.Calcul arie forma geometrica<br/>
+5.Calcul volum forma geometrica<br/>
+6.Calculeaza lungime laturi triunghi<br/>
+7.Centru de greutate triunghi<br/>
+8.Actiuni repository<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+8<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+0. Adauga patrat<br/>
+1. Delete patrat dupa punct stanga jos<br/>
+2. Delete patrat dupa latura<br/>
+3. Delete patrat dupa inaltime<br/>
+4. Delete patrat dupa arie<br/>
+5. Vezi patrate<br/>
+2<br/>
+Introduceti: latura patratului(float)<br/>
+3.33<br/>
+A fost elimnat un element<br/>
+Doriti o alta actiune?<br/>
+da<br/>
+0.Exit<br/>
+1.Vezi forme geometrice<br/>
+2.Adauga forma geometrica<br/>
+3.Sterge forma geometrica<br/>
+4.Calcul arie forma geometrica<br/>
+5.Calcul volum forma geometrica<br/>
+6.Calculeaza lungime laturi triunghi<br/>
+7.Centru de greutate triunghi<br/>
+8.Actiuni repository<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+8<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+0. Adauga patrat<br/>
+1. Delete patrat dupa punct stanga jos<br/>
+2. Delete patrat dupa latura<br/>
+3. Delete patrat dupa inaltime<br/>
+4. Delete patrat dupa arie<br/>
+5. Vezi patrate<br/>
+5<br/>
+1 1 2 5<br/>
+Doriti o alta actiune?<br/>
+da<br/>
+0.Exit<br/>
+1.Vezi forme geometrice<br/>
+2.Adauga forma geometrica<br/>
+3.Sterge forma geometrica<br/>
+4.Calcul arie forma geometrica<br/>
+5.Calcul volum forma geometrica<br/>
+6.Calculeaza lungime laturi triunghi<br/>
+7.Centru de greutate triunghi<br/>
+8.Actiuni repository<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+8<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+0. Adauga patrat<br/>
+1. Delete patrat dupa punct stanga jos<br/>
+2. Delete patrat dupa latura<br/>
+3. Delete patrat dupa inaltime<br/>
+4. Delete patrat dupa arie<br/>
+5. Vezi patrate<br/>
+4<br/>
+Introduceti: aria patratului(float)<br/>
+25<br/>
+A fost elimnat un element<br/>
+Doriti o alta actiune?<br/>
+da<br/>
+0.Exit<br/>
+1.Vezi forme geometrice<br/>
+2.Adauga forma geometrica<br/>
+3.Sterge forma geometrica<br/>
+4.Calcul arie forma geometrica<br/>
+5.Calcul volum forma geometrica<br/>
+6.Calculeaza lungime laturi triunghi<br/>
+7.Centru de greutate triunghi<br/>
+8.Actiuni repository<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+8<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+0. Adauga patrat<br/>
+1. Delete patrat dupa punct stanga jos<br/>
+2. Delete patrat dupa latura<br/>
+3. Delete patrat dupa inaltime<br/>
+4. Delete patrat dupa arie<br/>
+5. Vezi patrate<br/>
+5<br/>
+Lista este goala<br/>
+Doriti o alta actiune?<br/>
+da<br/>
+0.Exit<br/>
+1.Vezi forme geometrice<br/>
+2.Adauga forma geometrica<br/>
+3.Sterge forma geometrica<br/>
+4.Calcul arie forma geometrica<br/>
+5.Calcul volum forma geometrica<br/>
+6.Calculeaza lungime laturi triunghi<br/>
+7.Centru de greutate triunghi<br/>
+8.Actiuni repository<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+8<br/>
+Introduceti cifra corespunzatoare actiunii dorite:<br/>
+0. Adauga patrat<br/>
+1. Delete patrat dupa punct stanga jos<br/>
+2. Delete patrat dupa latura<br/>
+3. Delete patrat dupa inaltime<br/>
+4. Delete patrat dupa arie<br/>
+5. Vezi patrate<br/>
+3<br/>
+Introduceti: inaltimea patratului(float)<br/>
+0<br/>
+Nu exista patrat cu aceasta inaltime<br/>
+ Doriti o alta actiune?v
+nu<br/>
+Va mai asteptam!<br/>
+
