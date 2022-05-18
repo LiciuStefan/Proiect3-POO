@@ -1,6 +1,6 @@
 #include "PatratRepository.h"
 
-std::vector<Patrat*> PatratRepository::SearchByLatura(int latura)
+std::vector<Patrat*> PatratRepository::SearchByLatura(float latura)
 {
 	std::vector<Patrat*>P;
 	for (int i = 0; i < Ents.size(); ++i)
@@ -21,7 +21,7 @@ std::vector<Patrat*> PatratRepository::SearchByLatura(int latura)
 	else return P;
 }
 
-std::vector<Patrat*> PatratRepository::SearchByPunctStangaJos(int x, int y)
+std::vector<Patrat*> PatratRepository::SearchByPunctStangaJos(float x, float y)
 {
 	//Punct* Point = new Punct(x, y);
 	std::vector<Patrat*>P;
@@ -43,7 +43,7 @@ std::vector<Patrat*> PatratRepository::SearchByPunctStangaJos(int x, int y)
 	else return P;
 }
 
-std::vector<Patrat*> PatratRepository::SearchByInaltime(int inaltime)
+std::vector<Patrat*> PatratRepository::SearchByInaltime(float inaltime)
 {
 	std::vector<Patrat*>P;
 	for (int i = 0; i < Ents.size(); ++i)
@@ -64,7 +64,7 @@ std::vector<Patrat*> PatratRepository::SearchByInaltime(int inaltime)
 	else return P;
 }
 
-std::vector<Patrat*> PatratRepository::SearchByArie(int arie)
+std::vector<Patrat*> PatratRepository::SearchByArie(float arie)
 {
 	std::vector<Patrat*>P;
 	for (int i = 0; i < Ents.size(); ++i)
